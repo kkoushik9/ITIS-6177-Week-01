@@ -2,7 +2,10 @@
   "name": "ITIS-6177-Week-01",
   "version": "1.0.0",
   "description": "",
-  "main": "new.js",
+  "main": "express-server.js",
+  "engines": {
+    "node": ">=10"
+  },
   "dependencies": {
     "express-generator": "^4.16.1",
     "express": "^4.17.1"
